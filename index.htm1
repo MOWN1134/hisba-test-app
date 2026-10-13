@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ha">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hisba Gujba Command</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background: #eef3f7;
+  text-align: center;
+  padding: 30px 15px;
+}
+.card {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  max-width: 400px;
+  margin: 30px auto;
+}
+h1 { color: #14583e; }
+p { font-size: 18px; }
+</style>
+</head>
+<body>
+<div class="card">
+<h1>HISBA GUJBA COMMAND</h1>
+<p>Case Search App</p>
+<p>Buni Yadi, Gujba</p>
+<p>An shirya shafin gwaji cikin nasara.</p>
+</div>
+</body>
+</html>
